@@ -10,7 +10,8 @@ title: Week Two
   Time commitments for other classes will make it difficult to work on Collatz before it is due. 
 
 3. What will you do next week?
-  Next week I will read the textbook readings and start a lot earlier on the assignment. I'll also review my notes before the quizzes. I expect I'll be more familiar with the tools we're using by then as well. 
+  
+Next week I will read the textbook readings and start a lot earlier on the assignment. I'll also review my notes before the quizzes. I expect I'll be more familiar with the tools we're using by then as well. 
   
 My experience in class:
 
