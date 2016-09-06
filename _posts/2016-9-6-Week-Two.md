@@ -5,7 +5,7 @@ title: Week Two
 
 1. What did you do this past week?
 
-        This past week I went to my first two classes for software engineering! I also worked on the Collatz assignment. I haven't gotten as far in it as I would like yet, but c'est la vie. Tonight I will do as much as I can then go from there. I struggled a fair amount with setting up the tools that we will be using this semester, but seem to have set them up correctly. I'm still working on getting familiar with them. 
+    This past week I went to my first two classes for software engineering! I also worked on the Collatz assignment. I haven't gotten as far in it as I would like yet, but c'est la vie. Tonight I will do as much as I can then go from there. I struggled a fair amount with setting up the tools that we will be using this semester, but seem to have set them up correctly. I'm still working on getting familiar with them. 
 
 2. What's in your way?
 
