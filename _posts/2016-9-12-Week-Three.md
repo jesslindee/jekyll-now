@@ -16,7 +16,6 @@ title: Week Three
   Next week I will work on the Netflix assignment early and catch up on readings for this class. While not directly related to this class, I will also work on my resume for the upcoming career fair in the hopes that I can get a software engineering internship where I can use the skills I’ve learned/will learn in this class.
 
 Experience in the class:
-
   The code for the Collatz project wasn’t too difficult, but trying to use all of the tools we were supposed to use was time consuming. Travis CI gave me a fair amount of trouble, and I found it frustrating that Sphere didn’t give out all of the details for the problem (such as handling new lines). I also wasn’t entirely sure how to write failure cases, and I’m still not sure I understand what they are supposed to do. As an aside, being called on in class to work through the code is a little rough cause I’m usually only half awake when class meets. Guess I need to start bringing coffee!
 
 
