@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm a computer science major at UT Austin, expecting to graduate in December 2017. I'm still exploring the different areas of computer science to find out what I like the most and what I'll want to continue doing in the future. All I know for now is that I like solving problems! 
