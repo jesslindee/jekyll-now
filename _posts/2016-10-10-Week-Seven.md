@@ -10,7 +10,7 @@ title: Week Seven
 	A busy schedule. For the rest of the semester I'll be participating in 2 different group coding projects, which will be a challenge. Time management is definitely a key part of this semester. 
 
 3. What will you do next week?  
-	Next week I will meet with my IDB group and dive into the project. At the moment we're still coming up with ideas. The project seems a little overwhelming right now because I haven't worked with most of the tools we're supposed to use, but hopefully I'll catch on quickly. I think it will be beneficial to know these technologies for the future. I'm excited to work on this project! I'm sure it'll be challenging, but also rewarding. 
+	Next week I will meet with my IDB group and dive into the project. At the moment we're still coming up with ideas. The project seems a little overwhelming right now because I haven't worked with most of the tools we're supposed to use, but hopefully I'll catch on quickly. Overall, I'm excited to work on this project! I'm sure it'll be challenging, but also rewarding. 
 
 My experience in the class:  
 	The exam wasn't as bad as I was expecting; however I still made some silly errors. I think I need to study differently for future exams in this class. I hadn't used many of the coding concepts we studied by the time the exam rolled around, which was not a great situation. It would've been helpful to have been more comfortable with these ideas. For future exams I will definitely focus more on using the functions and practices we learn. Additionally I'll start studying earlier so that I don't have to cram as much and can spend more time digesting what we're doing. 
