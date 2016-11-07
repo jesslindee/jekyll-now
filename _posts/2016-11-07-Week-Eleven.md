@@ -18,11 +18,11 @@ My experience in class:
 Tip of the week:  
 
 
--[Here](https://regexcrossword.com/) is a regex crossword website. It has some concepts we haven't learned, but it's still cool to try out. (Credit for finding this website goes to Stas Ilinksy and his [SWE blog](http://ilinskiy.me/swe-blog/Week-10/))
+- [Here](https://regexcrossword.com/) is a regex crossword website. It has some concepts we haven't learned, but it's still cool to try out. (Credit for finding this website goes to Stas Ilinksy and his [SWE blog](http://ilinskiy.me/swe-blog/Week-10/))
 
--[This](http://www.vertabelo.com/blog/notes-from-the-lab/9-tips-for-better-database-design) is an article with tips to build a better database. It might be a little late for it for this project, but it's good to know. 
+- [This](http://www.vertabelo.com/blog/notes-from-the-lab/9-tips-for-better-database-design) is an article with tips to build a better database. It might be a little late for it for this project, but it's good to know. 
 
--Lastly, [here](https://piazza.com/class/is7tzuwt2r8249?cid=194) is a  list of everyone's websites in the class in case you want to see them! :) 
+- Lastly, [here](https://piazza.com/class/is7tzuwt2r8249?cid=194) is a  list of everyone's websites in the class in case you want to see them! :) 
 
 Laugh of the week:  
 [Interesting ways to enter your phone number](https://imgur.com/a/4f3XB)
