@@ -4,7 +4,7 @@ title: Week Thirteen
 ---
 
 1. What did you do this past week?  
-	This past week we finished up the IDB project by adding a site-wide search bar to the splash page. I think ours looks really good! Kudos to Alan and Seth on our team for making it so nice. Check it out at [boilerpl8.me](boilerpl8.me)!
+	This past week we finished up the IDB project by adding a site-wide search bar to the splash page. I think ours looks really good! Kudos to Alan and Seth on our team for making it so nice. Check it out at [boilerpl8.me](http://boilerpl8.me/)!
 
 2. What's in your way?  
 	Not too much honestly. This upcoming week is a pretty chill one because it’s Thanksgiving break (yay!), so I won’t be doing much school work if I can help it. It’s surprising that the end of the semester is right around the corner. I suppose I should start studying for the final for this class during the break cause I know that the week right after Thanksgiving is going to be really hectic. 
@@ -20,7 +20,7 @@ In class we went over method overriding, which is something I’m pretty familia
 Tip of the week:  It might be a bit late for this semester, but here are some useful [interview tips](https://www.interviewcake.com/coding-interview-tips)
 
 Laugh of the week:  
-[Thanksgiving](http://blog.softartisans.com/wp-content/uploads/2012/11/Scrum_Thanksgiving.jpg)
-[Fixing bugs](http://www.monkeyuser.com/2016/bugfixing-for-developers/)
-[Testing](http://www.monkeyuser.com/2016/testing-hammering-nails/) 
+[Thanksgiving](http://blog.softartisans.com/wp-content/uploads/2012/11/Scrum_Thanksgiving.jpg)  
+[Fixing bugs](http://www.monkeyuser.com/2016/bugfixing-for-developers/)  
+[Testing](http://www.monkeyuser.com/2016/testing-hammering-nails/)  
 [Disasters](http://www.monkeyuser.com/2016/diesaster-scale/)
