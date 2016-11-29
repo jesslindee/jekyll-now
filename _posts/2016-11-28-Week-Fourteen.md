@@ -7,7 +7,7 @@ Last week I didn't do much for this class or any other class really. I’d hoped
 
 
 2. What's in your way?  
-A lack of desire to get back into the grind. The break halted most of the momentum I had for classes, so getting back into things takes some effort. I’ve gotten a little burnt out by this semester, so I’m not eager to return to the stress. On the plus side there are only two more weeks left in the semester for me, so at least I won’t have to deal with it for super long. It’s always rough coming back from Thanksgiving break cause you return to one of the busiest weeks. I definitely needed the break though - sleep is good. 
+A lack of desire to get back into the grind. The break halted most of the momentum I had for classes, so getting back into things takes some effort. I’ve gotten a little burnt out by this semester, so I’m not eager to return to the stress. On the plus side there are only two more weeks left in the semester for me, so at least I won’t have to deal with it for super long. It’s always rough coming back from Thanksgiving break cause you return to one of the busiest weeks. I definitely needed the break though - sleep is good! 
 
 
 3. What will you do next week?  
